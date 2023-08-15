@@ -1,0 +1,12 @@
+{
+  "id2label": {
+    "0": "by AI",
+    "1": "by human"
+  },
+  "label2id": {
+    "by AI": "0",
+    "by human": "1"
+  },
+  "pretrained": false,
+  "timm_model": "timm/tf_mobilenetv3_large_100.in1k"
+}
