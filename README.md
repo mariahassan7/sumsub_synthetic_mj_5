@@ -14,6 +14,16 @@ tags:
 - pytorch
 metrics:
 - accuracy
+widget:
+  - src: >-
+      https://huggingface.co/Sumsub/Sumsub-ffs-synthetic-1.0_mj_5/resolve/main/images/2.jpg
+    example_title: Pope Francis(yellow puffer)
+  - src: >-
+      https://huggingface.co/Sumsub/Sumsub-ffs-synthetic-1.0_mj_5/resolve/main/images/3.jpg
+    example_title: Pentagon explosion
+  - src: >-
+      https://huggingface.co/Sumsub/Sumsub-ffs-synthetic-1.0_mj_5/resolve/main/images/4.webp
+    example_title: Trump arrest
 ---
 
 # For Fake's Sake: a set of models for detecting generated and synthetic images
