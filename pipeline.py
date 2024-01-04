@@ -7,7 +7,7 @@ import torch
 import torchvision
 from torch.nn import functional as F
 
-from midjourney5M import Model5M
+from .midjourney5M import Model5M
 
 class PreTrainedPipeline():
     def __init__(self, path=""):
